@@ -10,3 +10,4 @@ zancunqu
 
 
 ceshi xinde fenzhi
+Creating a new branch is quick AND simple.
